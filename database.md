@@ -13,6 +13,7 @@
 - developer VARCHAR(30) NOTNULL
 - format VARCHAR(10) NOTNULL
 - platform VARCHAR(10) NOTNULL
+- languages VARCHAR(100) NOTNULL
 - edition VARCHAR(10) NULL
 - release_year date YEAR
 - release_date date DATE NULL
